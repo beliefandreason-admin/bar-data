@@ -1,0 +1,3 @@
+= Index Page
+
+Some intro text and cards

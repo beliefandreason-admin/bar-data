@@ -1,0 +1,1 @@
+* xref:astronomy-cosmology:index.adoc[Astronomy and Cosmology]

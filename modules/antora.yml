@@ -1,0 +1,21 @@
+name: bar
+version: 2024.01
+title: Belief and Reason
+asciidoc:
+  attributes:
+    release-date: '2024-01-02'
+    release-tag: testing
+    source-language: asciidoc@
+    xrefstyle: short@
+
+nav:
+- modules/ROOT/nav-index.adoc
+- modules/archeology/nav-archeology.adoc
+- modules/astronomy-cosmology/nav-astronomy.adoc
+- modules/bible/nav-bible.adoc
+- modules/code/nav-code.adoc
+- modules/creation-evolution/nav-creation-evolution.adoc
+- modules/geology/nav-geology.adoc
+- modules/noahchian-flood/nav-noahs-flood.adoc
+- modules/prophecy/nav-prophecy.adoc
+- modules/theology/nav-theology.adoc
