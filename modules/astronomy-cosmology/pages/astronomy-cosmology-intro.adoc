@@ -1,6 +1,9 @@
-= Astronomical Evidence
+= Astronomy and Cosmology
 
-Testing Astronomy module
+== What is Astronomy?
+
+== What is Cosmology?
+
 
 .Testing a note
 [NOTE]
