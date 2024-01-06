@@ -9,7 +9,7 @@ asciidoc:
     xrefstyle: short@
 
 nav:
-- modules/ROOT/nav-index.adoc
+- modules/ROOT/nav-root.adoc
 - modules/archeology/nav-archeology.adoc
 - modules/astronomy-cosmology/nav-astronomy.adoc
 - modules/bible/nav-bible.adoc
