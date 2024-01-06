@@ -1,2 +1,2 @@
-* xref:index.adoc[Introduction]
+* xref:ROOT:index.adoc[Introduction]
 * Start Here

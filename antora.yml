@@ -1,12 +1,11 @@
 name: bar
 version: 2024.01
 title: Belief and Reason
+start_page: index.adoc
 asciidoc:
   attributes:
-    release-date: '2024-01-02'
-    release-tag: testing
+    release-date: '2024-01-06'
     source-language: asciidoc@
-    xrefstyle: short@
 
 nav:
 - modules/ROOT/nav-root.adoc
