@@ -3,8 +3,6 @@
 == What is Astronomy?
 Testing algolia crawler
 
-Yo this is tterrible content. Like league.
-
 == What is Cosmology?
 
 What is Cosmology? What is its purpose?
