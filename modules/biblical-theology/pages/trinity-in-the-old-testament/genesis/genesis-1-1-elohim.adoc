@@ -2,12 +2,12 @@
 
 .Genesis 1:1
 ____
-1 In the beginning, God created the heavens and the earth.
+1. In the beginning, God created the heavens and the earth.
 <<gen-1:1>>
 ____
 
 .Elohim
-[cols="4, 8, 8, 10, 10", frame=none, stripes=even] 
+[cols="4, 6, 6, 12, 10", frame=none] 
 |===
 | Transliteration | Part of Speech | Root Word | Dictionary Aids | Definition 
 
