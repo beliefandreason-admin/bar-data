@@ -7,18 +7,16 @@ ____
 ____
 
 .Elohim
-[cols="1,2,10,10"] 
+[cols="1, 2, 8, 10, 10"] 
 |===
-| Transliteration | Part of Speech | Dictionary Aids | Definition
+| Transliteration | Part of Speech | Root Word | Dictionary Aids | Definition 
 
 | <<DBL>> 466 אֱלֹהִים (ʾělō·hîm)
-
-| : n.masc.; 
-
+| masculine noun 
+| link:https://www.blueletterbible.org/lexicon/h433/kjv/wlc/0-1/[Plural of אֱלוֹהַּ Str H433]
 a| * Strongs Lexicon 430; 
  * Theological Wordbook of the Old Testament 93c—1. 
  * Louw-Nida Greek-English Lexicon 12.22
-
 | God, i.e., the true God, 
 
 note: though the **form is a grammatical plural**, the **meaning is singular** and many sources think it implies a majesty or stateliness (Ge 1:1)
