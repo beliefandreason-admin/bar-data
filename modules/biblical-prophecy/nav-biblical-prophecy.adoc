@@ -1,1 +1,1 @@
-* xref:biblical-prophecy:intro-biblical-prophecy.adoc[Prophecy]
+* xref:biblical-prophecy:intro-biblical-prophecy.adoc[Biblical Prophecy]
