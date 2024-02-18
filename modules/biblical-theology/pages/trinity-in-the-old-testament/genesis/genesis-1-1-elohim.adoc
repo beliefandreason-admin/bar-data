@@ -5,15 +5,13 @@
 
 
 .Elohim 
-[TIP]
+[NOTE]
 ====
 466 אֱלֹהִים (ʾělō·hîm): n.masc.; ≡ Str 430; TWOT 93c—1. <<elohim>>
 
 LN 12.22 God, i.e., the true God, 
 
 note: though the form is a grammatical plural, the meaning is singular and many sources think it implies a majesty or stateliness (Ge 1:1)
-
-
 ====
 
 
