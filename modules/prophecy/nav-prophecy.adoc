@@ -1,1 +1,1 @@
-* xref:prophecy:prophecy-intro.adoc[Prophecy]
+* xref:prophecy:intro-prophecy.adoc[Prophecy]

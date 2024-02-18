@@ -1,1 +1,1 @@
-* xref:archeology:archeology-intro.adoc[Archeology]
+* xref:archeology:intro-archeology.adoc[Archeology]
