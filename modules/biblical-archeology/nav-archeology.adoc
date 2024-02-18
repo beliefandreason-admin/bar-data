@@ -1,1 +1,1 @@
-* xref:archeology:intro-archeology.adoc[Archeology]
+* xref:biblical-archeology:intro-archeology.adoc[Biblical Archeology]
