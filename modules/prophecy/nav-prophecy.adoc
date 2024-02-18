@@ -1,1 +1,0 @@
-* xref:prophecy:intro-prophecy.adoc[Prophecy]

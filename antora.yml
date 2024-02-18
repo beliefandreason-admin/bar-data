@@ -10,5 +10,5 @@ asciidoc:
 nav:
 - modules/ROOT/nav-root.adoc
 - modules/biblical-archeology/nav-archeology.adoc
-- modules/prophecy/nav-prophecy.adoc
-- modules/theology/nav-theology.adoc
+- modules/biblical-prophecy/nav-biblical-prophecy.adoc
+- modules/biblical-theology/nav-biblical-theology.adoc
