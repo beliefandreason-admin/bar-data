@@ -1,23 +1,33 @@
 = Elohim
 
+.Genesis 1:1
+____
 1 In the beginning, God created the heavens and the earth.
-<<gen1-1>>
+<<gen-1:1>>
+____
 
+.Elohim
+[cols="1,2,10,10"] 
+|===
+| Transliteration | Part of Speech | Dictionary Aids | Definition
 
-.Elohim 
-[NOTE]
-====
-466 אֱלֹהִים (ʾělō·hîm): n.masc.; ≡ Str 430; TWOT 93c—1. <<elohim>>
+| <<DBL>> 466 אֱלֹהִים (ʾělō·hîm)
 
-LN 12.22 God, i.e., the true God, 
+| : n.masc.; 
 
-note: though the form is a grammatical plural, the meaning is singular and many sources think it implies a majesty or stateliness (Ge 1:1)
-====
+a| * Strongs Lexicon 430; 
+ * Theological Wordbook of the Old Testament 93c—1. 
+ * Louw-Nida Greek-English Lexicon 12.22
+
+| God, i.e., the true God, 
+
+note: though the **form is a grammatical plural**, the **meaning is singular** and many sources think it implies a majesty or stateliness (Ge 1:1)
+|===
 
 
 
 [bibliography]
 == Bibliography
-* [[[gen1-1]]]The Holy Bible: English Standard Version (Wheaton, IL: Crossway Bibles, 2016), Ge 1:1.
+* [[[gen1-1]]] The Holy Bible: English Standard Version (Wheaton, IL: Crossway Bibles, 2016), Ge 1:1.
 
-* [[[elohim]]]James Swanson, Dictionary of Biblical Languages with Semantic Domains : Hebrew (Old Testament) (Oak Harbor: Logos Research Systems, Inc., 1997).
+* [[[DBL]]] James Swanson, Dictionary of Biblical Languages with Semantic Domains : Hebrew (Old Testament) (Oak Harbor: Logos Research Systems, Inc., 1997).
