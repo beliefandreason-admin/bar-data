@@ -1,0 +1,25 @@
+= Elohim
+
+1 In the beginning, God created the heavens and the earth.
+<<gen1-1>>
+
+
+.Elohim 
+[TIP]
+====
+466 אֱלֹהִים (ʾělō·hîm): n.masc.; ≡ Str 430; TWOT 93c—1. <<elohim>>
+
+LN 12.22 God, i.e., the true God, 
+
+note: though the form is a grammatical plural, the meaning is singular and many sources think it implies a majesty or stateliness (Ge 1:1)
+
+
+====
+
+
+
+[bibliography]
+== Bibliography
+* [[[gen1-1]]]The Holy Bible: English Standard Version (Wheaton, IL: Crossway Bibles, 2016), Ge 1:1.
+
+* [[[elohim]]]James Swanson, Dictionary of Biblical Languages with Semantic Domains : Hebrew (Old Testament) (Oak Harbor: Logos Research Systems, Inc., 1997).
