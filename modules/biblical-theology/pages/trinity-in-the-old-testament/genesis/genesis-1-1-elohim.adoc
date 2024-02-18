@@ -9,7 +9,7 @@ ____
 <<gen-1:1>>
 ____
 
-In Genesis 1:1 we find the plural male noun Elohim.
+In Genesis 1:1 we find the **plural male** noun `ʾělō·hîm`.
 
 .Elohim
 [cols="4, 6, 6, 12, 10", frame=none] 
@@ -29,7 +29,7 @@ note: though the **form is a grammatical plural**, the **meaning is singular** a
 
 
 == Rûaḥ
-In Genesis 1:2 we find the feminine noun rûaḥ of ʾělō·hîm.
+In Genesis 1:2 we find the **feminine** noun `rûaḥ of ʾělō·hîm`.
 
 ____
 ...And the Spirit of God was hovering over the face of the waters.
