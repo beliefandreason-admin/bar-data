@@ -13,7 +13,7 @@ ____
 
 | <<DBL>> 466 אֱלֹהִים (ʾělō·hîm)
 | masculine noun 
-| link:https://www.blueletterbible.org/lexicon/h433/kjv/wlc/0-1/[Plural of אֱלוֹהַּ Str H433]
+| link:https://www.blueletterbible.org/lexicon/h433/kjv/wlc/0-1/[Plural of אֱלוֹהַּ (Str H433)]
 a| * Strongs Lexicon 430; 
  * Theological Wordbook of the Old Testament 93c—1. 
  * Louw-Nida Greek-English Lexicon 12.22
