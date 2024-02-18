@@ -1,4 +1,4 @@
-* xref:biblical-theology:intro-theology.adoc[Introduction to Theology]
+* xref:biblical-theology:intro-theology.adoc[Biblical Theology]
 ** xref:biblical-theology:jesus-in-the-old-testament/intro-jesus-in-the-old-testament.adoc[Jesus in the Old Testament]
 *** xref:biblical-theology:jesus-in-the-old-testament/genesis/jesus-in-genesis.adoc[Genesis]
 *** xref:biblical-theology:jesus-in-the-old-testament/exodus/jesus-in-exodus.adoc[Exodus]
