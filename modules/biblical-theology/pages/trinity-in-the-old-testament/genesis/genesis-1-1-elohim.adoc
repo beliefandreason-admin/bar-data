@@ -7,7 +7,7 @@ ____
 ____
 
 .Elohim
-[cols="4, 8, 8, 10, 10", grid=cols, stripes=even] 
+[cols="4, 8, 8, 10, 10", frame=none, stripes=even] 
 |===
 | Transliteration | Part of Speech | Root Word | Dictionary Aids | Definition 
 
