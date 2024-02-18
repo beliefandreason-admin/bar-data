@@ -1,13 +1,13 @@
 = Genesis 1:1 - Elohim
 
-.Genesis 1:1
+.Genesis 1:1 - Elohim
 ____
 1. In the beginning, God created the heavens and the earth.
 
 <<gen-1:1>>
 ____
 
-
+In Genesis 1:1 we find the plural male noun Elohim.
 
 .Elohim
 [cols="4, 6, 6, 12, 10", frame=none] 
@@ -25,10 +25,32 @@ a| * Strongs Lexicon 430;
 note: though the **form is a grammatical plural**, the **meaning is singular** and many sources think it implies a majesty or stateliness (Ge 1:1)
 |===
 
+In Genesis 1:2 we find the feminine noun rûaḥ of ʾělō·hîm.
+
+____
+ ...And the Spirit of God was hovering over the face of the waters.
+
+<<gen-1:2>>
+____
+
+.Genesis 1:2
+[cols="4, 6, 6, 12, 10", frame=none] 
+|===
+| Transliteration | Part of Speech | Root Word | Dictionary Aids | Definition 
+
+| <<DBL>> 8120 רוּחַ (rûaḥ)
+| Feminine noun
+| link:https://www.blueletterbible.org/lexicon/h7306/nasb20/wlc/0-1/[From רִיחַ (H7306)]
+a| * Strongs Lexicon 7307; 
+ * Theological Wordbook of the Old Testament 2131a—1. 
+ * Louw-Nida Greek-English Lexicon 12.1–12.42
+| Spirit, i.e., the divine Power of God, which can be grieved, closely identified with the LORD himself (Ps 106:33; Isa 63:10)
+|===
 
 
 [bibliography]
 == Bibliography
-* [[[gen1-1]]] The Holy Bible: English Standard Version (Wheaton, IL: Crossway Bibles, 2016), Ge 1:1.
+* [[[gen-1:1]]] The Holy Bible: English Standard Version (Wheaton, IL: Crossway Bibles, 2016), Ge 1:1.
+* [[[gen-1:2]]]The Holy Bible: English Standard Version (Wheaton, IL: Crossway Bibles, 2016), Ge 1:2.
 
 * [[[DBL]]] James Swanson, Dictionary of Biblical Languages with Semantic Domains : Hebrew (Old Testament) (Oak Harbor: Logos Research Systems, Inc., 1997).
