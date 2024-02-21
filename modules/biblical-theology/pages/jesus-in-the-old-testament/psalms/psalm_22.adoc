@@ -11,7 +11,7 @@ Here’s how it reads in the King James Version (KJV):
 
 === Masoretic Text (MT)
 
-image::Leningrad_Codex_Carpet_page_e.jpg[Leningrad Codex Carpet Page, Shmuel ben Ya'akov Public Domain]
+image::Leningrad_Codex_Carpet_page_e.jpg[title="Leningrad Codex Carpet Page", caption="Shmuel ben Ya'akov public domain"]
 
 For more information on the Masoretic text see: link:https://www.newworldencyclopedia.org/entry/Masoretic_Text[]
 
