@@ -52,5 +52,5 @@ ____
 
 [bibliography]
 == Bibliography
-* [[[a]]] Jewish Publication Society Bible 1917 http://www.breslov.com/bible/Psalms22.htm#17
+* [[[a]]] Jewish Publication Society Bible 1917 link:http://www.breslov.com/bible/Psalms22.htm#17[]
 * [[[b]]] Martin Abegg Jr., Peter Flint, and Eugene Ulrich, The Dead Sea Scrolls Bible: The Oldest Known Bible Translated for the First Time into English New York: HarperOne, 1999, Ps 22:3–20.
