@@ -57,5 +57,4 @@ a| * Strongs Lexicon 7307;
 == Bibliography
 * [[[gen-1:1]]] The Holy Bible: English Standard Version (Wheaton, IL: Crossway Bibles, 2016), Ge 1:1.
 * [[[gen-1:2]]]The Holy Bible: English Standard Version (Wheaton, IL: Crossway Bibles, 2016), Ge 1:2.
-
 * [[[DBL]]] James Swanson, Dictionary of Biblical Languages with Semantic Domains : Hebrew (Old Testament) (Oak Harbor: Logos Research Systems, Inc., 1997).
