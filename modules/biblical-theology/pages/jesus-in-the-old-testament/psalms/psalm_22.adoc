@@ -8,13 +8,13 @@
 
 The full verse of the Masoretic Text reads: 
 
-[quote, <<a>>]
+[quote, Jewish Publication Society Bible 1917]
 ____
 כִּ֥י סְבָב֗וּנִי כְּלָ֫בִ֥ים עֲדַ֣ת מְ֭רֵעִים הִקִּיפ֑וּנִי כָּ֝אֲרִ֗י יָדַ֥י וְרַגְלָֽי
 
 Kî sĕḇāḇûnî kĕlāḇîm 'ăḏaṯ mĕrē'îm hiqqîp̄ûnî kā'ărî yāḏay wĕraḡlāy
 
-“For dogs have surrounded me; a band of evildoers has encompassed me, like #a lion, my hands and feet#.”
+“For dogs have surrounded me; a band of evildoers has encompassed me, like #a lion, my hands and feet#.” <<a>>
 ____
 
 The form of this Hebrew phrase appears to be **lacking a verb**.
@@ -38,14 +38,12 @@ ____
 14 [.line-through]#I have# been poured out  [.line-through]#like water, and all# my bon [.line-through]#es are out of joint. My heart has turned to wax; it has mel# ted away in my breast. 
 15 [.line-through]#My strength is dried up like a potsherd#, and my tongue melts in [.line-through]#my mouth. They# have placed [.line-through]#me# as the dust of death.
 
-16 [.line-through]#For# dogs are [.line-through]#all around me#; a gang of evil [.line-through]#doers# encircles me. #They have pierced my hands and my feet#. 
+16 [.line-through]#For# dogs are [.line-through]#all around me#; a gang of evil [.line-through]#doers# encircles me. #They have pierced my hands and my feet#. <<b>>
 
 17 [.line-through]#I can count all of my bones; people stare and gloat over me. 
 18 They divide my garments among themselves, and they cast lots for my# clothes.
 19 But as for you, [.line-through]#O LORD, do not be far away! O you my strength, come quickly to my aid. 
-20 Deliver my soul from the sword, my precious life from the power of the dogs!# 
-
-<<b>>
+20 Deliver my soul from the sword, my precious life from the power of the dogs!#  
 ____
 
 
