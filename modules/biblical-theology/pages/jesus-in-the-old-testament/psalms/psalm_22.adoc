@@ -11,7 +11,7 @@ Here’s how it reads in the King James Version (KJV):
 
 === Masoretic Text (MT)
 
-image::Leningrad_Codex_Carpet_page_e.jpg[title="Leningrad Codex Carpet Page", caption="Shmuel ben Ya'akov public domain"]
+image::Leningrad_Codex_Carpet_page_e.jpg[caption="Leningrad Codex Carpet Page: ", title="Shmuel ben Ya'akov, public domain"]
 
 For more information on the Masoretic text see: link:https://www.newworldencyclopedia.org/entry/Masoretic_Text[]
 
@@ -34,7 +34,7 @@ The form of this Hebrew phrase appears to be **lacking a verb**.
 [quote, Psalms 21, Septuagint]
 ____
 Greek
-17 ὅτι ἐκύκλωσάν με κύνες πολλοί, συναγωγὴ πονηρευομένων περιέσχον με, ὤρυξαν χεῖράς μου καὶ πόδας. 18 ἐξηρίθμησαν πάντα τὰ ὀστᾶ μου, αὐτοὶ δὲ κατενόησαν καὶ ἐπεῖδόν με.
+17 ὅτι ἐκύκλωσάν με κύνες πολλοί, συναγωγὴ πονηρευομένων περιέσχον με, ὤρυξαν χεῖράς μου καὶ πόδας.
 
 17 For many dogs have compassed me: the assembly of the wicked doers has beset me round: #they pierced my hands and my feet#.
 ____
