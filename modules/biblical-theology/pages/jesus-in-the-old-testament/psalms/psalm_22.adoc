@@ -4,18 +4,53 @@
 
 == Varients and Challenges
 
+=== Masoretic Text
 
 The full verse of the Masoretic Text reads: 
 
 [quote, Jewish Publication Society Bible 1917 ]
 ____
-כִּ֥י סְבָב֗וּנִי כְּלָ֫בִ֥ים עֲדַ֣ת מְ֭רֵעִים הִקִּיפ֑וּנִי כָּ֝אֲרִ֗י יָדַ֥י וְרַגְלָֽי‎ 
+כִּ֥י סְבָב֗וּנִי כְּלָ֫בִ֥ים עֲדַ֣ת מְ֭רֵעִים הִקִּיפ֑וּנִי כָּ֝אֲרִ֗י יָדַ֥י וְרַגְלָֽי
 
-(Kî sĕḇāḇûnî kĕlāḇîm 'ăḏaṯ mĕrē'îm hiqqîp̄ûnî kā'ărî yāḏay wĕraḡlāy)
+Kî sĕḇāḇûnî kĕlāḇîm 'ăḏaṯ mĕrē'îm hiqqîp̄ûnî kā'ărî yāḏay wĕraḡlāy
 
-“For dogs have surrounded me; a band of evildoers has encompassed me, like a lion, my hands and feet.”
+“For dogs have surrounded me; a band of evildoers has encompassed me, like #a lion, my hands and feet#.”
+____
+
+The form of this Hebrew phrase appears to be **lacking a verb**.
+
+
+=== Septuigent
+
+
+
+=== Dead Sea Scrolls
+
+
+[quote, bracketed sections are missing from fragments]
+____
+3 But you are the [.line-through]#holy one#, who inhabits the praises of Israel. 
+4 Our ancestors put their trust in you; they trusted; you delivered them. 
+5 They cried to you, and were saved; they trusted in you, and were not put to shame. 
+6 But [.line-through]#as for me#, I am a worm, and not human, scorned by others and despised by the people. 
+7 All who see me [.line-through]#ridicule me; they make faces at me# and shake their heads: 
+8 “Commit yourself to the LORD! Let him deliver—let him rescue him, since he delights in him!”▲
+14 [.line-through]#I have# been poured out  [.line-through]#like water, and all# my bon [.line-through]#es are out of joint. My heart has turned to wax; it has mel# ted away in my breast. 
+15 [.line-through]#My strength is dried up like a potsherd#, and my tongue melts in [.line-through]#my mouth. They# have placed [.line-through]#me# as the dust of death.
+
+16 [.line-through]#For# dogs are [.line-through]#all around me#; a gang of evil [.line-through]#doers# encircles me. #They have pierced my hands and my feet#. 
+
+17 [.line-through]#I can count all of my bones; people stare and gloat over me. 
+18 They divide my garments among themselves, and they cast lots for my# clothes.
+19 But as for you, [.line-through]#O LORD, do not be far away! O you my strength, come quickly to my aid. 
+20 Deliver my soul from the sword, my precious life from the power of the dogs!# 
+
+<<1>>
 ____
 
 
-The syntactical form of this Hebrew phrase appears to be lacking a verb.
 
+[bibliography]
+== Bibliography
+
+* [[[1]]] Martin Abegg Jr., Peter Flint, and Eugene Ulrich, The Dead Sea Scrolls Bible: The Oldest Known Bible Translated for the First Time into English New York: HarperOne, 1999, Ps 22:3–20.
