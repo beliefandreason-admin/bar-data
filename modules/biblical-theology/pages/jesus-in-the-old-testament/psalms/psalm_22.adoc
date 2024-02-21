@@ -4,9 +4,17 @@
 
 == Context
 
+.New Testament
+* Matthew 27 
+* Mark 15 
+* Luke 23
+* John 19
+
+.Old Testament
+* Psalm 22
 
 
-== Controversy and varient readings
+== Controversy
 
 According to anti-Christian rabbi polemicists and other biblical critics, Psalm 22:16 [17 in Jewish translations] is an instance where Christians __supposedly__ corrupted the Hebrew text in order to turn it into a prophecy of the crucifixion of the Lord Jesus.
 
@@ -22,7 +30,7 @@ ____
 
 image::Leningrad_Codex_Carpet_page_e.jpg[caption="Leningrad Codex Carpet Page: ", title="Shmuel ben Ya'akov, public domain"]
 
-For more information on the Masoretic text see: link:https://www.newworldencyclopedia.org/entry/Masoretic_Text[]
+For more information on the Masoretic text see, link:https://www.newworldencyclopedia.org/entry/Masoretic_Text[]
 
 The full verse of the Masoretic Text reads: 
 
