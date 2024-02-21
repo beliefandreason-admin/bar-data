@@ -13,6 +13,8 @@ Here’s how it reads in the King James Version (KJV):
 
 image::Leningrad_Codex_Carpet_page_e.jpg[Leningrad Codex Carpet Page, Shmuel ben Ya'akov Public Domain]
 
+For more information on the Masoretic text see: link:https://www.newworldencyclopedia.org/entry/Masoretic_Text[]
+
 The full verse of the Masoretic Text reads: 
 
 [quote, Jewish Publication Society Bible 1917]
