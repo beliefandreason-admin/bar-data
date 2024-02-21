@@ -1,13 +1,22 @@
 = Psalm 22
 
-According to anti-Christian rabbi polemicists and other biblical critics, Psalm 22:16 #17 in Jewish translations# is an instance where Christians supposedly corrupted the Hebrew text in order to turn it into a prophecy of the crucifixion of the Lord Jesus. 
-Here’s how it reads in the King James Version (KJV):
 
-“For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.”
 
 == Context
 
-== Varients and Challenges
+
+
+== Controversy and varient readings
+
+According to anti-Christian rabbi polemicists and other biblical critics, Psalm 22:16 [17 in Jewish translations] is an instance where Christians __supposedly__ corrupted the Hebrew text in order to turn it into a prophecy of the crucifixion of the Lord Jesus.
+
+This is how it reads in the King James Version (KJV):
+[quote, KJV]
+____
+“For dogs have compassed me: the assembly of the wicked have inclosed me: they #pierced# my hands and my feet.” <<a>>
+____
+
+
 
 === Masoretic Text (MT)
 
@@ -21,12 +30,11 @@ The full verse of the Masoretic Text reads:
 ____
 כִּ֥י סְבָב֗וּנִי כְּלָ֫בִ֥ים עֲדַ֣ת מְ֭רֵעִים הִקִּיפ֑וּנִי כָּ֝אֲרִ֗י יָדַ֥י וְרַגְלָֽי
 
-Kî sĕḇāḇûnî kĕlāḇîm 'ăḏaṯ mĕrē'îm hiqqîp̄ûnî kā'ărî yāḏay wĕraḡlāy
-
-“For dogs have surrounded me; a band of evildoers has encompassed me, like #a lion, my hands and feet#.” <<a>>
+“For dogs have surrounded me; a band of evildoers has encompassed me, like #a lion#, my hands and feet.” <<b>>
 ____
 
 The form of this Hebrew phrase appears to be **lacking a verb**.
+
 
 
 === Septuagent (LXX)
@@ -36,8 +44,9 @@ ____
 Greek
 17 ὅτι ἐκύκλωσάν με κύνες πολλοί, συναγωγὴ πονηρευομένων περιέσχον με, ὤρυξαν χεῖράς μου καὶ πόδας.
 
-17 For many dogs have compassed me: the assembly of the wicked doers has beset me round: #they pierced my hands and my feet#.
+17 For many dogs have compassed me: the assembly of the wicked doers has beset me round: they #pierced# my hands and my feet.
 ____
+
 
 
 === The Dead Sea Scrolls
@@ -54,7 +63,7 @@ ____
 14 [.line-through]#I have# been poured out  [.line-through]#like water, and all# my bon [.line-through]#es are out of joint. My heart has turned to wax; it has mel# ted away in my breast. 
 15 [.line-through]#My strength is dried up like a potsherd#, and my tongue melts in [.line-through]#my mouth. They# have placed [.line-through]#me# as the dust of death.
 
-16 [.line-through]#For# dogs are [.line-through]#all around me#; a gang of evil [.line-through]#doers# encircles me. #They have pierced my hands and my feet#. <<b>>
+16 [.line-through]#For# dogs are [.line-through]#all around me#; a gang of evil [.line-through]#doers# encircles me. #They have pierced my hands and my feet#. <<c>>
 
 17 [.line-through]#I can count all of my bones; people stare and gloat over me. 
 18 They divide my garments among themselves, and they cast lots for my# clothes.
@@ -66,5 +75,6 @@ ____
 
 [bibliography]
 == Bibliography
-* [[[a]]] Jewish Publication Society Bible 1917 link:http://www.breslov.com/bible/Psalms22.htm#17[]
-* [[[b]]] Martin Abegg Jr., Peter Flint, and Eugene Ulrich, The Dead Sea Scrolls Bible: The Oldest Known Bible Translated for the First Time into English New York: HarperOne, 1999, Ps 22:3–20.
+* [[[a]]] King James Version
+* [[[b]]] Jewish Publication Society Bible 1917 link:http://www.breslov.com/bible/Psalms22.htm#17[]
+* [[[c]]] Martin Abegg Jr., Peter Flint, and Eugene Ulrich, The Dead Sea Scrolls Bible: The Oldest Known Bible Translated for the First Time into English New York: HarperOne, 1999, Ps 22:3–20.
