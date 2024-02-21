@@ -5,7 +5,7 @@
 *** xref:biblical-theology:jesus-in-the-old-testament/leviticus/jesus-in-leviticus.adoc[Leviticus]
 *** xref:biblical-theology:jesus-in-the-old-testament/numbers/jesus-in-numbers.adoc[Numbers]
 *** xref:biblical-theology:jesus-in-the-old-testament/psalms/jesus-in-psalms.adoc[Psalms]
-**** xref:biblical-theology:jesus-in-the-old-testament/psalms/psalms_22.adoc[Psalms 22 - The Crucifixion]
+**** xref:biblical-theology:jesus-in-the-old-testament/psalms/psalm_22.adoc[Psalms 22 - The Crucifixion]
 ** xref:biblical-theology:trinity-in-the-old-testament/intro-trinity-in-the-old-testament.adoc[The Trinity in the Old Testament]
 *** xref:biblical-theology:trinity-in-the-old-testament/genesis/trinity-in-genesis.adoc[Genesis]
 **** xref:biblical-theology:trinity-in-the-old-testament/genesis/genesis-1-1-elohim.adoc[Genesis 1:1 - Elohim]
