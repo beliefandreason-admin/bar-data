@@ -1,10 +1,17 @@
 = Psalm 22
 
+According to anti-Christian rabbi polemicists and other biblical critics, Psalm 22:16 #17 in Jewish translations# is an instance where Christians supposedly corrupted the Hebrew text in order to turn it into a prophecy of the crucifixion of the Lord Jesus. 
+Here’s how it reads in the King James Version (KJV):
+
+“For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.”
+
 == Context
 
 == Varients and Challenges
 
-=== Masoretic Text
+=== Masoretic Text (MT)
+
+image::Leningrad_Codex_Carpet_page_e.jpg[Leningrad Codex Carpet Page, Shmuel ben Ya'akov Public Domain]
 
 The full verse of the Masoretic Text reads: 
 
@@ -20,11 +27,18 @@ ____
 The form of this Hebrew phrase appears to be **lacking a verb**.
 
 
-=== Septuigent
+=== Septuagent (LXX)
+
+[quote, Psalms 21, Septuagint]
+____
+Greek
+17 ὅτι ἐκύκλωσάν με κύνες πολλοί, συναγωγὴ πονηρευομένων περιέσχον με, ὤρυξαν χεῖράς μου καὶ πόδας. 18 ἐξηρίθμησαν πάντα τὰ ὀστᾶ μου, αὐτοὶ δὲ κατενόησαν καὶ ἐπεῖδόν με.
+
+17 For many dogs have compassed me: the assembly of the wicked doers has beset me round: #they pierced my hands and my feet#.
+____
 
 
-
-=== Dead Sea Scrolls
+=== The Dead Sea Scrolls
 
 
 [quote, bracketed sections are missing from fragments]
