@@ -8,7 +8,7 @@
 
 The full verse of the Masoretic Text reads: 
 
-[quote, Jewish Publication Society Bible 1917 ]
+[quote, <<1>>]
 ____
 כִּ֥י סְבָב֗וּנִי כְּלָ֫בִ֥ים עֲדַ֣ת מְ֭רֵעִים הִקִּיפ֑וּנִי כָּ֝אֲרִ֗י יָדַ֥י וְרַגְלָֽי
 
@@ -45,12 +45,13 @@ ____
 19 But as for you, [.line-through]#O LORD, do not be far away! O you my strength, come quickly to my aid. 
 20 Deliver my soul from the sword, my precious life from the power of the dogs!# 
 
-<<1>>
+<<2>>
 ____
 
 
 
 [bibliography]
-== Bibliography
+== References
 
-* [[[1]]] Martin Abegg Jr., Peter Flint, and Eugene Ulrich, The Dead Sea Scrolls Bible: The Oldest Known Bible Translated for the First Time into English New York: HarperOne, 1999, Ps 22:3–20.
+* [[[1]]] Jewish Publication Society Bible 1917 http://www.breslov.com/bible/Psalms22.htm#17
+* [[[2]]] Martin Abegg Jr., Peter Flint, and Eugene Ulrich, The Dead Sea Scrolls Bible: The Oldest Known Bible Translated for the First Time into English New York: HarperOne, 1999, Ps 22:3–20.
