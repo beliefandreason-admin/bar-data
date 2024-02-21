@@ -78,7 +78,7 @@ ____
 === The Dead Sea Scrolls
 
 
-[quote, bracketed sections are missing from fragments]
+[quote, text with strikeouts are missing from fragments]
 ____
 3 But you are the [.line-through]#holy one#, who inhabits the praises of Israel. 
 4 Our ancestors put their trust in you; they trusted; you delivered them. 
