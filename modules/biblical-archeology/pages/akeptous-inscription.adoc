@@ -2,7 +2,7 @@
 
 image::akeptous-inscription-room.jpg[]
 
-The Akeptous Inscription is a significant early Christian artifact discovered at Megiddo, Israel. It is one of the earliest known references to Christianity, providing crucial insights into early Christian worship practices.
+The Akeptous Inscription is a significant early Christian artifact discovered at link:https://en.wikipedia.org/wiki/Megiddo,_Israel[Megiddo, Israel]. It is one of the earliest known references to Christianity, providing crucial insights into early Christian worship practices.
 
 The Akeptous Inscription is dated to around the 3rd century CE, typically between 230–240 CE, while the Council of Nicaea occurred in 325 CE. 
 This makes the Akeptous Inscription approximately **85–95 years earlier than the Council of Nicaea**.
