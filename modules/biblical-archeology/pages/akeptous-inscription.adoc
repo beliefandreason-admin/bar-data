@@ -1,7 +1,33 @@
 = The Akeptous Inscription
 
-“Akeptous, the friend of God, has offered the table to God Jesus Christ (for) remembrance.”
+image::akeptous-inscription-room.jpg[]
+
+The Akeptous Inscription is a significant early Christian artifact discovered at Megiddo, Israel. It is one of the earliest known references to Christianity, providing crucial insights into early Christian worship practices.
+
+The Akeptous Inscription is dated to around the 3rd century CE, typically between 230–240 CE, while the Council of Nicaea occurred in 325 CE. 
+This makes the Akeptous Inscription approximately 85–95 years earlier than the Council of Nicaea.
 
 image::akeptous-inscription.jpg[]
 
-image::akeptous-inscription-room.jpg[]
+The inscription, written in Greek, reads:
+
+"Η Ακεπτους θεοφιλ(ε)ς την τραπεζαν εθετο τῷ [Θεῷ] Ἰησοῦ Χριστῷ εἰς μνείαν."
+
+Translation:
+"Akeptous, lover of God, offered this table for (the) **god Jesus Christ**, as **a remembrance**."
+
+Key points about the Akeptous Inscription:
+
+Location and Archaeology:: It was found during excavations at an ancient Roman military camp near Megiddo, specifically in what appears to be the remains of an early Christian house church.
+
+Historical Significance:: The inscription is important because it references Jesus Christ directly, suggesting that by the 3rd century, Christians were openly using this name in religious dedications. The term “**god Jesus Christ**” indicates the divinity of Jesus, which was an established belief by this time.
+
+The Church and Christianity:: The house church where the inscription was found is one of the oldest known Christian worship sites, giving scholars a glimpse into how early Christian communities might have worshipped in small, private spaces before Christianity became widely recognized in the Roman Empire.
+
+Akeptous:: The name "Akeptous" likely refers to a woman (possibly a benefactor) who donated the table used in Christian gatherings, which could have been an altar or a communal table used for the Eucharist.
+
+
+
+
+
+
