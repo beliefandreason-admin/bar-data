@@ -1,1 +1,2 @@
 * xref:biblical-archeology:intro-archeology.adoc[Biblical Archeology]
+** xref:biblical-archeology:akeptous-inscription.adoc[Akeptous Inscription]
