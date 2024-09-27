@@ -10,28 +10,28 @@
 // - Additional Resources
 
 // Introduction
-The birth and lineage of the Messiah are central themes in biblical prophecy, with numerous Old Testament passages foretelling the coming of a savior who would be born of a virgin, from the line of David, and in the town of Bethlehem. These prophecies provide a roadmap for identifying the promised Messiah and offer a glimpse into the divine plan for redemption. This article explores key Messianic prophecies related to the birth and lineage of Jesus Christ and their fulfillment in the New Testament.
+The birth and lineage of the Messiah are central themes in biblical prophecy, with numerous Old Testament passages **foretelling the coming of a savior** who would be **born of a virgin**, from the **line of David**, and in **the town of Bethlehem**. These prophecies provide a roadmap for identifying the promised Messiah and offer a glimpse into the divine plan for redemption. This article explores key Messianic prophecies related to the birth and lineage of Jesus Christ and their fulfillment in the New Testament.
 
 // Messianic Prophecies
 The Old Testament contains several prophecies concerning the birth and lineage of the Messiah, providing specific details about his ancestry, birthplace, and divine nature. These prophecies serve as signposts that point to the identity of the promised savior and establish a foundation for understanding the significance of Jesus Christ's birth.
 
-Messiah would be born of a woman
+Messiah would be born of a woman::
 Prophecy: Genesis 3:15
 Fulfillment: Matthew 1:20, Galatians 4:4
 
-Messiah would be born in Bethlehem
+Messiah would be born in Bethlehem::
 Prophecy: Micah 5:2
 Fulfillment: Matthew 2:1, Luke 2:4-6
 
-Messiah would be born of a virgin
+Messiah would be born of a virgin::
 Prophecy: Isaiah 7:14
 Fulfillment: Matthew 1:22-23, Luke 1:26-31
 
-Messiah would be called a Nazarene
+Messiah would be called a Nazarene::
 Prophecy: Isaiah 11:1
 Fulfillment: Matthew 2:23
 
-Messiah would be a light to the Gentiles
+Messiah would be a light to the Gentiles::
 Prophecy: Isaiah 9:1-2
 Fulfillment: Matthew 4:13-16
 
