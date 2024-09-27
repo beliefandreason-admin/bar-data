@@ -1,2 +1,3 @@
 * xref:biblical-archeology:intro-archeology.adoc[Biblical Archeology]
 ** xref:biblical-archeology:akeptous-inscription.adoc[Akeptous Inscription]
+** xref:biblical-archeology:dead-sea-scrolls.adoc[Dead Sea Scrolls]
