@@ -1,1 +1,3 @@
 * xref:biblical-prophecy:intro-biblical-prophecy.adoc[Biblical Prophecy]
+** xref:biblical-prophecy:messiah-lineage-and-birth.adoc[The Messiah's Lineage and Birth]
+** xref:biblical-prophecy:prophet-priest-king.adoc[The Messiah as Prophet, Priest, and King]
