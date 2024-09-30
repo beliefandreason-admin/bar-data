@@ -1,13 +1,6 @@
 = The Messiah's Lineage and Birth
 :toc:
-// add a table of contents
-// include the following sections:
-// - Introduction
-// - Messianic Prophecies
-// - Fulfillment in Jesus Christ
-// - Conclusion
-// - References
-// - Additional Resources
+
 
 // Introduction
 The birth and lineage of the Messiah are central themes in biblical prophecy, with numerous Old Testament passages **foretelling the coming of a savior** who would be **born of a virgin**, from the **line of David**, and in **the town of Bethlehem**. These prophecies provide a roadmap for identifying the promised Messiah and offer a glimpse into the divine plan for redemption. This article explores key Messianic prophecies related to the birth and lineage of Jesus Christ and their fulfillment in the New Testament.
@@ -15,14 +8,14 @@ The birth and lineage of the Messiah are central themes in biblical prophecy, wi
 // Messianic Prophecies
 The Old Testament contains several prophecies concerning the **birth and lineage of the Messiah**, providing specific details about his ancestry, birthplace, and divine nature. These prophecies serve as signposts that point to the **identity of the promised savior**.
 
-Messiah would be born of a woman::
+== Messiah would be born of a woman
 Prophecy: Genesis 3:15
-__And I will put enmity
+#__And I will put enmity
 between you and the
 woman, and between your
 seed and her seed; it shall
 bruise thy head, and thou
-shalt bruise his heel.__
+shalt bruise his heel.__#
 
 There will be hatred between Satan and the woman. At some point in the future a woman will give birth to a child who will crush the head of Satan. This is a prophecy of the virgin birth of Jesus as well as Satans promised success at "biting" the heel of God but ultimately losing the battle over humanity at the cross when Christ conquered sin and death. This verse also explains why Satan throughout biblical history has tried to destroy the this seed, for example the killing of the first born in Egypt, the killing of the babies in Bethlehem by Herod, and the crucifixion of Jesus. He was trying to stop Gods plan of salvation.
 
@@ -33,14 +26,14 @@ It is important to realize that men provide seed, not woman.
 
 Fulfillment: Matthew 1:20, Galatians 4:4
 
-Messiah would be born in Bethlehem::
+== Messiah would be born in Bethlehem
 Prophecy: Micah 5:2
-__2 But you, O Bethlehem Ephrathah,
+#__2 But you, O Bethlehem Ephrathah,
     who are too little to be among the clans of Judah,
 from you shall come forth for me
     one who is to be ruler in Israel,
 whose coming forth is from of old,
-    from ancient days.__
+    from ancient days.__#
 
 The messiah will be **born in Bethlehem**, a small town in Judah. This person **will be a ruler** who has existed from ancient times. Jesus himself says that he is the "I AM", the one who has existed from ancient times. See Exodus 3:14. 
 
@@ -48,25 +41,40 @@ Exodus 3:14 God said to Moses, "**I AM WHO I AM**. This is what you are to say t
 
 **I AM is the past present and future tense** of the form of the verb "**to be**". This is a statement of existence.
 
-Fulfillment: Matthew 2:1, Luke 2:4-6
+**Fulfillment: Matthew 2:1, Luke 2:4-6**
 
-Messiah would be born of a virgin::
+== Messiah would be born of a virgin (almah)
+
 Prophecy: Isaiah 7:14
-__Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him **Immanuel**.__
+#__Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him **Immanuel**.__#
 
 The meaning of **Immanuel is "God with us"**. This is a prophecy of the virgin birth of Jesus Christ. God in the flesh.
 
-Fulfillment: Matthew 1:22-23, Luke 1:26-31
+**Fulfillment: Matthew 1:22-23, Luke 1:26-31**
 
-Messiah would be called a Nazarene::
-Prophecy: Isaiah 11:1
+== Messiah would be called a Nazarene
+
+**Prophecy: Isaiah 11:1**
+
+#__There shall come forth a shoot from the stump of Jesse,
+    and a branch from his roots shall bear fruit.__#
 
 Isaiah 11:1 says that the Messiah will come from the **stem of Jesse**. Jesse is the father of King David. The **branch** that will come from the **stem of Jesse** is the **Messiah**. The **branch** is a **Nazarene**. Branch in hebrew is litterally **netzer**. **Netzer** is the hebrew word for **Nazarene**. Jesus grew up in **Nazareth**. He was called a **Nazarene**.
 
-Fulfillment: Matthew 2:23
+**Fulfillment: Matthew 2:23**
 
-Messiah would be a light to the Gentiles::
-Prophecy: Isaiah 9:1-2
+
+== Messiah would be a light to the Gentiles
+
+**Prophecy: Isaiah 9:1-2**
+
+1 But there will be no gloom for her who was in anguish. 
+In the former time he brought into contempt the land of Zebulun and the land of Naphtali, but in the latter time he has made glorious the way of the sea, the land beyond the Jordan, Galilee of the nations.
+
+2 The people who walked in darkness
+    have seen a great light;
+those who dwelt in a land of deep darkness,
+    on them has light shone.
 
 Isaiah 9:1-2 says that the **Messiah** will be a **light to the Gentiles**. This is a prophecy of the **Gentiles** or non Jews coming to **Jesus Christ**.
 
