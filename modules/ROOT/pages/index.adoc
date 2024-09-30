@@ -1,3 +1,5 @@
 = Index Page
 
-Some intro text and cards
+``This page will contain cards that lead to the various topics in the modules.``
+
+:construction:
