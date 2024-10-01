@@ -1,2 +1,2 @@
 * xref:islam-polemics:intro-islam.adoc[Isamic Polemics]
-** xref:islam-polemics:sinless-nature-jesus.adoc[The Sinless Nature of Jesus in the Quran]
+** xref:islam-polemics:sinless-nature-jesus-quran.adoc[The Sinless Nature of Jesus in the Quran]
