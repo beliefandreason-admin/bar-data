@@ -1,2 +1,3 @@
 * xref:islam-polemics:intro-islam.adoc[Isamic Polemics]
 ** xref:islam-polemics:sinless-nature-jesus-quran.adoc[The Sinless Nature of Jesus in the Quran]
+** xref:islam-polemics:christians-jews-given-for-sin-quran.adoc[Christians and Jews Replace Muslims in Hell-Fire]
