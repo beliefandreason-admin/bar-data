@@ -1,3 +1,2 @@
-* xref:ROOT:index.adoc[Introduction]
-* What is BAR?
-** xref:ROOT:about.adoc[About BAR]
+* xref:ROOT:index.adoc[Welcome]
+* xref:ROOT:about.adoc[About BAR]

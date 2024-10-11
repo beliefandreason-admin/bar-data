@@ -8,7 +8,7 @@ Navigate to various **modules** (topics) using the links below. You can also use
 
 == Modules
 
-[cols="1,1", grid=none, frame=none stripes=none]
+[cols="1,1", grid=none, frame=none]
 |===
 | icon:book[] xref:biblical-archeology:intro-archeology.adoc[**Biblical Archeology**] 
 | icon:book[] xref:biblical-prophecy:intro-biblical-prophecy.adoc[**Biblical Prophecy**] 
