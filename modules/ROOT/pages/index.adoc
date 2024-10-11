@@ -10,10 +10,10 @@ Navigate to various **modules** (topics) using the links below. You can also use
 
 [cols="1,1", grid=none, frame=none stripes=none]
 |===
-| xref:biblical-archeology:intro-archeology.adoc[**Biblical Archeology**] icon:book[]
-| xref:biblical-prophecy:intro-biblical-prophecy.adoc[**Biblical Prophecy**] icon:book[]
+| icon:book[] xref:biblical-archeology:intro-archeology.adoc[**Biblical Archeology**] 
+| icon:book[] xref:biblical-prophecy:intro-biblical-prophecy.adoc[**Biblical Prophecy**] 
 
-| xref:biblical-theology:intro-theology.adoc[**Biblical Theology**] icon:book[]
-| xref:islam-polemics:intro-islam.adoc[**Islamic Polemics**] icon:book[]
+| icon:book[] xref:biblical-theology:intro-theology.adoc[**Biblical Theology**] 
+| icon:book[] xref:islam-polemics:intro-islam.adoc[**Islamic Polemics**] 
 
 |===
