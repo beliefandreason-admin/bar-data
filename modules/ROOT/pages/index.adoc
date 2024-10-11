@@ -4,8 +4,14 @@
 
 {construction}
 
-Testing reftagger
+== Modules
 
-([Genesis 3:15])
+[cols="1,1", grid=none, frame=none, stripes=even ]
+|===
+| xref:biblical-archeology/intro-archeology.adoc[Biblical Archeology]
+| xref:biblical-prophecy/intro-biblical-prophecy.adoc[Biblical Prophecy]
 
-John 3:16
+|  xref:biblical-theology/intro-theology.adoc[Biblical Theology]
+| xref:islam-polemics/intro-islam.adoc[Islamic Polemics]
+
+|===
