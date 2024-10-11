@@ -1,4 +1,4 @@
-= Index Page
+= Welcome to Belief and Reason (BAR)
 :toc: false
 
 == Modules
