@@ -6,4 +6,4 @@
 
 Testing reftagger
 
-([Genesis 3:15])
+[Genesis 3:15]
