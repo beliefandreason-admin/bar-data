@@ -1,5 +1,5 @@
 = Welcome to Belief and Reason (BAR)
-:toc: false
+:!toc:
 
 == Modules
 
