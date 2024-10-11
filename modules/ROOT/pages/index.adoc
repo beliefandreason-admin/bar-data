@@ -3,7 +3,7 @@
 
 == Modules
 
-[cols="1,1", grid=none, frame=none, stripes=even ]
+[cols="1,1", grid=none, frame=none]
 |===
 | xref:biblical-archeology:intro-archeology.adoc[Biblical Archeology]
 | xref:biblical-prophecy:intro-biblical-prophecy.adoc[Biblical Prophecy]
