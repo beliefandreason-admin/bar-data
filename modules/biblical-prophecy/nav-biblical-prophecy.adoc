@@ -1,3 +1,5 @@
 * xref:biblical-prophecy:intro-biblical-prophecy.adoc[Biblical Prophecy]
-** xref:biblical-prophecy:messiah-lineage-and-birth.adoc[The Messiah's Lineage and Birth]
-** xref:biblical-prophecy:prophet-priest-king.adoc[The Messiah as Prophet, Priest, and King]
+** xref:biblical-prophecy:yeshua-christ/messiah-lineage-and-birth.adoc[The Messiah's Lineage and Birth]
+** xref:biblical-prophecy:yeshua-christ/prophet-priest-king.adoc[The Messiah as Prophet, Priest, and King]
+** xref:biblical-prophecy:daniel/daniel-intro.adoc[The book of Daniel]
+*** xref:biblical-prophecy:daniel/daniel-8.adoc[Daniel Chapter 8]
