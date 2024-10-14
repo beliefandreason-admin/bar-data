@@ -1,6 +1,6 @@
 = Overview of Daniel Chapter 8 and Its Fulfillment in History
 
-image:daniel-7-8-5.jpg[title="Daniel Fragment Chapter 7-8",align=center, link=https://www.deadseascrolls.org.il/about-the-project/credits]
+image:daniel-7-8-5.jpg[caption="Daniel Fragment Chapter 7-8, link=https://www.deadseascrolls.org.il/about-the-project/credits"]
 
 == Daniel Chapter 8
 
@@ -33,8 +33,8 @@ As I was considering this, behold, a goat came from the west across the face of 
 === Interpretation
 
 Gabriel explains that the vision pertains to the "time of the end" and the "appointed time of wrath." 
-The ram represents the Medo-Persian Empire, and the goat represents the Greek Empire. 
-The large horn is Alexander the Great, and the four horns are the four kingdoms that arose after his death which preceeded from his four generals.
+The **ram represents the Medo-Persian Empire**, and the **goat represents the Greek Empire**. 
+The **large horn is Alexander the Great**, and **the four horns** are the four kingdoms that arose after his death which preceeded from **his four generals**.
 
 == Historical Fulfillment
 These prophecies were fulfilled exactly in history as follows:
