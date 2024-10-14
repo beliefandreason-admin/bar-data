@@ -1,3 +1,4 @@
+[[intro-to-daniel]]
 = Introduction to the Book of Daniel
 
 The Book of Daniel is a significant text in both the Hebrew Bible and the Christian Old Testament. 
@@ -24,22 +25,24 @@ and may even have belonged to the Nebi’im in the Qumran community."
 <<Nel>>
 
 
-== Themes
-
-The Book of Daniel explores themes such as:
-
-- **Faithfulness**: The unwavering commitment of Daniel and his friends to their faith.
-- **Divine Sovereignty**: The belief that God is in control of history and the fate of nations.
-- **Hope and Deliverance**: The promise of God's deliverance for those who remain faithful.
-- **Apocalyptic Visions**: The revelation of future events and the ultimate triumph of God's kingdom.
-
-
 
 == Historical Context
 
 The historical narrative begins **during the Babylonian exile**, a period when the Jewish people were deported from the Kingdom of Judah to Babylon. Much was written during this period in the Bible, including the books of **Jeremiah, Ezekiel, and Daniel**.
 
 This historical backdrop **is essential for understanding** the themes of faith, perseverance, divine intervention and prophecy that permeate the book.
+
+== Themes
+
+The Book of Daniel explores themes such as:
+
+- **Faithfulness**: The unwavering commitment of Daniel and his friends to their faith.
+
+- **Divine Sovereignty**: The belief that God is in control of history and the fate of nations.
+
+- **Hope and Deliverance**: The promise of God's deliverance for those who remain faithful.
+
+- **Apocalyptic Visions**: The revelation of future events and the ultimate triumph of God's kingdom.
 
 
 
