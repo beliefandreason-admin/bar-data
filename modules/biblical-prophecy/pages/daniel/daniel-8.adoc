@@ -1,5 +1,7 @@
 = Overview of Daniel Chapter 8 and Its Fulfillment in History
 
+image:../../images/daniel-7-8-5.jpg[Daniel Chapter 8, center]
+
 == Daniel Chapter 8
 
 Daniel Chapter 8 contains a vision given to the prophet Daniel during the third year of King Belshazzar's reign. The vision is of a ram and a goat, which are interpreted by the angel Gabriel.
@@ -32,6 +34,7 @@ These prophecies were fulfilled in history as follows:
 == Qumran Discovery
 
 The discovery of the Dead Sea Scrolls at Qumran in the mid-20th century **included fragments of the Book of Daniel**. These scrolls date back to the **late 2nd century BC**, providing evidence that the Book of Daniel was considered canonical and authoritative by the Jewish community at that time. **This obliterates the former criticisms that the Book of Daniel was written after the events it prophesied**.
+
 
 
 == Conclusion
