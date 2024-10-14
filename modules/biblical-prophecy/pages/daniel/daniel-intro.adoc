@@ -1,47 +1,8 @@
 = Introduction to the Book of Daniel
 
-The Book of Daniel is a significant text in both the Hebrew Bible and the Christian Old Testament. It is attributed to Daniel, a Jewish nobleman who was taken into Babylonian captivity. The book is divided into two main sections: a series of court history (chapters 1-6) and a series of apocalyptic visions (chapters 7-12).
-
-== Qumran Discovery
-
-The discovery of the Dead Sea Scrolls at Qumran in the mid-20th century **included fragments of the Book of Daniel**. These scrolls date back to the **late 2nd century BC**, providing evidence that the Book of Daniel was considered canonical and authoritative by the Jewish community at that time. 
-
-**This obliterates the former criticisms that the Book of Daniel was written after the events it prophesied**.
-
-From noted scholar Dr. Marius Nel, __"The Qumran discovery of the Book of Daniel is a significant find that confirms the antiquity and canonical status of the book in Jewish tradition."__
-
-[quote, On Qumran Discover, Dr. Marius Nel]
-"The way in which Daniel was used at Qumran shows its authoritative
-status. For instance, the Florilegium (4Q174) quotes Daniel 12:10 with the accompanying words,
-**“as written in the book of Daniel, the prophet”**. This shows that Daniel was regarded as Scripture,
-and may even have belonged to the Nebi’im in the Qumran community."
-<<[Nel]>>
-
-
-
-== Historical Context
-
-The historical narrative begins **during the Babylonian exile**, a period when the Jewish people were deported from the Kingdom of Judah to Babylon. This historical backdrop **is crucial for understanding** the themes of faith, perseverance, and divine intervention that permeate the book.
-
-== Structure and Content
-
-The **first half of the book** contains the histories of Daniel and his friends, who remain faithful to their God despite facing various trials and challenges in a foreign land. These histories include the famous accounts of the **fiery furnace, the writing on the wall, and Daniel in the lion's den**.
-
-The **second half of the book** shifts to apocalyptic literature, featuring visions and prophecies **about the future**. These visions provide insight into the rise and fall of empires, the coming of the Messiah, and the ultimate triumph of God's kingdom.
-
-== Prophecies
-
-The Book of Daniel contains several notable prophecies, including:
-
-- **The Four Beasts (Daniel 7)**: A vision of four great beasts representing successive empires, culminating in the establishment of God's everlasting kingdom. The empires identified in Daniel 7 are the **Babylonian Empire**, the **Medo-Persian Empire**, the **Greek Empire**, and the **Roman Empire**.
-
-- **The Ram and the Goat (Daniel 8)**: A vision depicting the conflict between the Medo-Persian Empire (the ram) and the Greek Empire (the goat). This conflict is interpreted as a prophecy of the rise of Alexander the Great (Prominent horn) and his conquest of the Medio-Persian Empire. The vision also foretells the division of Alexander's empire among his generals after his death.
-
-- **The Seventy Weeks (Daniel 9)**: A prophecy outlining a period of seventy 'weeks' (interpreted as seventy sets of seven years) leading to the coming of an anointed one and the ultimate redemption.
-
-- **The Kings of the North and South (Daniel 11)**: A detailed prophecy describing the conflicts between the Ptolemaic and Seleucid empires, leading up to the time of the end.
-
-- **The Time of the End (Daniel 12)**: A vision of the end times, including the resurrection of the dead and the final judgment.
+The Book of Daniel is a significant text in both the Hebrew Bible and the Christian Old Testament. 
+It is attributed to Daniel, a Jewish nobleman who was taken into Babylonian captivity. 
+The book is divided into two main sections: a series of court history (chapters 1-6) and a series of apocalyptic visions (chapters 7-12).
 
 == Themes
 
@@ -50,6 +11,62 @@ The Book of Daniel explores themes such as:
 - **Faithfulness**: The unwavering commitment of Daniel and his friends to their faith.
 - **Divine Sovereignty**: The belief that God is in control of history and the fate of nations.
 - **Hope and Deliverance**: The promise of God's deliverance for those who remain faithful.
+
+
+
+== Qumran Discovery and Canonical Status
+
+The discovery of the Dead Sea Scrolls at Qumran in the mid-20th century **included fragments of the Book of Daniel**. 
+These scrolls date back to the **late 2nd century BC**, providing evidence that the Book of Daniel was considered canonical and authoritative by the Jewish community at that time. 
+
+**This obliterates the former criticisms that the Book of Daniel was written after the events it prophesied**.
+
+From noted scholar Dr. Marius Nel, __"The Qumran discovery of the Book of Daniel is a significant find that confirms the antiquity and canonical status of the book in Jewish tradition."__
+
+.Daniel was Scripture at Qumran
+[quote, On Qumran Discover, Dr. Marius Nel]
+"The way in which Daniel was used at Qumran shows its authoritative
+status. For instance, the Florilegium (4Q174) quotes Daniel 12:10 with the accompanying words,
+**“as written in the book of Daniel, the prophet”**. This shows that Daniel was regarded as Scripture,
+and may even have belonged to the Nebi’im in the Qumran community."
+<<Nel>>
+
+
+
+== Historical Context
+
+The historical narrative begins **during the Babylonian exile**, a period when the Jewish people were deported from the Kingdom of Judah to Babylon. 
+This historical backdrop **is crucial for understanding** the themes of faith, perseverance, and divine intervention that permeate the book.
+
+
+
+== Structure and Content
+
+The **first half of the book** contains the histories of Daniel and his friends, who remain faithful to their God despite facing various trials and challenges in a foreign land.
+ These histories include the famous accounts of the **fiery furnace, the writing on the wall, and Daniel in the lion's den**.
+
+The **second half of the book** shifts to apocalyptic literature, featuring visions and prophecies **about the future**. These visions provide insight into the rise and fall of empires, the coming of the Messiah, and the ultimate triumph of God's kingdom.
+
+
+
+== Prophecies
+
+The Book of Daniel contains several notable prophecies, including:
+
+- **The Four Beasts (Daniel 7)**: A vision of four great beasts representing successive empires, culminating in the establishment of God's everlasting kingdom.
+ The empires identified in Daniel 7 are the **Babylonian Empire**, the **Medo-Persian Empire**, the **Greek Empire**, and the **Roman Empire**.
+
+- **The Ram and the Goat (Daniel 8)**: A vision depicting the conflict between the Medo-Persian Empire (the ram) and the Greek Empire (the goat). 
+This conflict is interpreted as a prophecy of the rise of Alexander the Great (Prominent horn) and his conquest of the Medio-Persian Empire. 
+The vision also foretells the division of Alexander's empire among his generals after his death.
+
+- **The Seventy Weeks (Daniel 9)**: A prophecy outlining a period of seventy 'weeks' (interpreted as seventy sets of seven years) leading to the coming of an anointed one and the ultimate redemption.
+
+- **The Kings of the North and South (Daniel 11)**: A detailed prophecy describing the conflicts between the Ptolemaic and Seleucid empires, leading up to the time of the end.
+
+- **The Time of the End (Daniel 12)**: A vision of the end times, including the resurrection of the dead and the final judgment.
+
+
 
 == Conclusion
 
@@ -65,4 +82,4 @@ Daniel has inspired countless readers with its history of courage,visions of hop
 [bibliography]
 == Bibliography
 
-- [[[Nel]]]Nel, Marius. "The Book of Daniel at Qumran." *Journal of Northwest Semitic Languages* 44, no. 1 (2018): 1-16.
+- [[[Nel]]] Nel, Marius. "The Book of Daniel at Qumran." *Journal of Northwest Semitic Languages* 44, no. 1 (2018): 1-16.
