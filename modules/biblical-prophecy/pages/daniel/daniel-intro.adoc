@@ -2,6 +2,23 @@
 
 The Book of Daniel is a significant text in both the Hebrew Bible and the Christian Old Testament. It is attributed to Daniel, a Jewish nobleman who was taken into Babylonian captivity. The book is divided into two main sections: a series of court history (chapters 1-6) and a series of apocalyptic visions (chapters 7-12).
 
+== Qumran Discovery
+
+The discovery of the Dead Sea Scrolls at Qumran in the mid-20th century **included fragments of the Book of Daniel**. These scrolls date back to the **late 2nd century BC**, providing evidence that the Book of Daniel was considered canonical and authoritative by the Jewish community at that time. 
+
+**This obliterates the former criticisms that the Book of Daniel was written after the events it prophesied**.
+
+From noted scholar Dr. Marius Nel, __"The Qumran discovery of the Book of Daniel is a significant find that confirms the antiquity and canonical status of the book in Jewish tradition."__
+
+[quote, On Qumran Discover, Dr. Marius Nel]
+"The way in which Daniel was used at Qumran shows its authoritative
+status. For instance, the Florilegium (4Q174) quotes Daniel 12:10 with the accompanying words,
+**“as written in the book of Daniel, the prophet”**. This shows that Daniel was regarded as Scripture,
+and may even have belonged to the Nebi’im in the Qumran community."
+<<[Nel]>>
+
+
+
 == Historical Context
 
 The historical narrative begins **during the Babylonian exile**, a period when the Jewish people were deported from the Kingdom of Judah to Babylon. This historical backdrop **is crucial for understanding** the themes of faith, perseverance, and divine intervention that permeate the book.
@@ -44,3 +61,8 @@ Daniel has inspired countless readers with its history of courage,visions of hop
 - **to bring in everlasting righteousness,**
 - **to seal up vision and prophecy,**
 - **to anoint the most holy.**
+
+[bibliography]
+== Bibliography
+
+- [[[Nel]]]Nel, Marius. "The Book of Daniel at Qumran." *Journal of Northwest Semitic Languages* 44, no. 1 (2018): 1-16.

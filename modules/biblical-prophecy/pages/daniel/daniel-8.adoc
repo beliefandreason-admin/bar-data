@@ -6,6 +6,7 @@ image:daniel-7-8-5.jpg[title="Daniel Fragment Chapter 7-8",align=center, link=ht
 
 Daniel Chapter 8 contains a vision given to the prophet Daniel during the third year of King Belshazzar's reign. The vision is of a ram and a goat, which are interpreted by the angel Gabriel.
 
+
 === The Vision
 
 - **The Ram**: The ram has two horns, **one longer than the other**, representing the kings of Media and Persia. **Media was the first kingdom to rise to power, followed by Persia, which became the dominant kingdom.**
@@ -20,18 +21,23 @@ As I was considering this, behold, a goat came from the west across the face of 
 
 - **The Goat**: The goat has a single prominent horn between its eyes, symbolizing the first king of Greece (Alexander the Great). The goat (Alexander the Great) defeats the ram (Media and Persia), and the goats prominent horn is broken (Alexander the Great dies) who is then replaced by four notable horns, representing the division of Alexander's empire among his four generals.
 
-- **Cassander**: Took control of Macedonia and Greece.
-- **Lysimachus**: Governed Thrace and parts of Asia Minor.
-- **Ptolemy**: Ruled over Egypt and neighboring regions.
-- **Seleucus**: Controlled the bulk of Alexander's Asian territories, including Syria and Persia.
+- **Cassander**: Took control of Macedonia and Greece. Cassander was the son of Antipater, one of Alexander's generals.
+
+- **Lysimachus**: Governed Thrace and parts of Asia Minor. Lysimachus was a close companion of Alexander and later became a general in his army.
+
+- **Ptolemy**: Ruled over Egypt and neighboring regions. Ptolemy was one of Alexander's most trusted generals and became the founder of the Ptolemaic dynasty in Egypt.
+
+- **Seleucus**: Controlled the bulk of Alexander's Asian territories, including Syria and Persia. Seleucus was a prominent general in Alexander's army and later established the Seleucid Empire.
 
 
 === Interpretation
 
-Gabriel explains that the vision pertains to the "time of the end" and the "appointed time of wrath." The ram represents the Medo-Persian Empire, and the goat represents the Greek Empire. The large horn is Alexander the Great, and the four horns are the four kingdoms that arose after his death which preceeded from his four generals.
+Gabriel explains that the vision pertains to the "time of the end" and the "appointed time of wrath." 
+The ram represents the Medo-Persian Empire, and the goat represents the Greek Empire. 
+The large horn is Alexander the Great, and the four horns are the four kingdoms that arose after his death which preceeded from his four generals.
 
 == Historical Fulfillment
-These prophecies were fulfilled in history as follows:
+These prophecies were fulfilled exactly in history as follows:
 
 - **Medo-Persian Empire**: The ram with two horns symbolizes the Medo-Persian Empire, which was a significant power in the ancient Near East.
 
@@ -39,18 +45,7 @@ These prophecies were fulfilled in history as follows:
 
 - **Division of Alexander's Empire**: After Alexander's death, his empire was divided among his four generals: Cassander, Lysimachus, Ptolemy, and Seleucus.
 
-== Qumran Discovery
 
-The discovery of the Dead Sea Scrolls at Qumran in the mid-20th century **included fragments of the Book of Daniel**. These scrolls date back to the **late 2nd century BC**, providing evidence that the Book of Daniel was considered canonical and authoritative by the Jewish community at that time. **This obliterates the former criticisms that the Book of Daniel was written after the events it prophesied**.
-
-From noted scholar Dr. Marius Nel, "The Qumran discovery of the Book of Daniel is a significant find that confirms the antiquity and canonical status of the book in Jewish tradition."
-
-"The way in which Daniel was used at Qumran shows its authoritative
-status. For instance, the Florilegium (4Q174) quotes Daniel 12:10 with the accompanying words,
-**“as written in the book of Daniel, the prophet”**. This shows that Daniel was regarded as Scripture,
-and may even have belonged to the Nebi’im in the Qumran community."
-
-- Dr Marius Nel Extraordinary senior lecturer School for Biblical science and Biblical languages North-WestUniversity 
 
 
 == Conclusion
