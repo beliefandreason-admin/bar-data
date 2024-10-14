@@ -8,7 +8,15 @@ Daniel Chapter 8 contains a vision given to the prophet Daniel during the third 
 
 === The Vision
 
-- **The Ram**: The ram has two horns, **one longer than the other**, representing the kings of Media and Persia. Media was the first kingdom to rise to power, followed by Persia, which became the dominant kingdom.
+- **The Ram**: The ram has two horns, **one longer than the other**, representing the kings of Media and Persia. **Media was the first kingdom to rise to power, followed by Persia, which became the dominant kingdom.**
+
+[quote, daniel 8:3-4]
+The ram had two horns, both long, but one was longer than the other, and the longer one came up last. I saw the ram charging westward and northward and southward. No beast could stand before him, and there was no one who could rescue from his power; he did as he pleased and became great. 
+
+- **The Goat**: The goat has a single prominent horn between its eyes, symbolizing the first king of Greece (Alexander the Great). The goat (Alexander the Great) defeats the ram (Media and Persia), and the goat's prominent horn is broken (Alexander the Great dies) who is then replaced by four notable horns, representing the division of Alexander's empire among his four generals.
+
+[quote,daniel 8:5-8]
+As I was considering this, behold, a goat came from the west across the face of the whole earth, without touching the ground. And the goat had a conspicuous horn between his eyes. He came to the ram with the two horns, which I had seen standing on the bank of the canal, and he ran at him in his powerful wrath. I saw him come close to the ram, and he was enraged against him and struck the ram and broke his two horns. And the ram had no power to stand before him, but he cast him down to the ground and trampled on him. And there was no one who could rescue the ram from his power. Then the goat became exceedingly great, **but when he was strong, the great horn was broken**, and instead of it there came up **four conspicuous horns toward the four winds of heaven**.
 
 - **The Goat**: The goat has a single prominent horn between its eyes, symbolizing the first king of Greece (Alexander the Great). The goat (Alexander the Great) defeats the ram (Media and Persia), and the goats prominent horn is broken (Alexander the Great dies) who is then replaced by four notable horns, representing the division of Alexander's empire among his four generals.
 
@@ -35,6 +43,14 @@ These prophecies were fulfilled in history as follows:
 
 The discovery of the Dead Sea Scrolls at Qumran in the mid-20th century **included fragments of the Book of Daniel**. These scrolls date back to the **late 2nd century BC**, providing evidence that the Book of Daniel was considered canonical and authoritative by the Jewish community at that time. **This obliterates the former criticisms that the Book of Daniel was written after the events it prophesied**.
 
+From noted scholar Dr. Marius Nel, "The Qumran discovery of the Book of Daniel is a significant find that confirms the antiquity and canonical status of the book in Jewish tradition."
+
+"The way in which Daniel was used at Qumran shows its authoritative
+status. For instance, the Florilegium (4Q174) quotes Daniel 12:10 with the accompanying words,
+**“as written in the book of Daniel, the prophet”**. This shows that Daniel was regarded as Scripture,
+and may even have belonged to the Nebi’im in the Qumran community."
+
+- Dr Marius Nel Extraordinary senior lecturer School for Biblical science and Biblical languages North-WestUniversity 
 
 
 == Conclusion
