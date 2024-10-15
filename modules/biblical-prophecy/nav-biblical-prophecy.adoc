@@ -9,6 +9,12 @@
 ** Prophecies in the Torah
 *** Introduction to the Promises of God
 *** Genesis and the Patriarchs
+**** xref:biblical-prophecy:genesis/genesis-intro.adoc[Genesis Introduction]
+// Use these as an example to create a navigation structure for the biblical prophecy module.
+**** xref:biblical-prophecy:genesis/genesis-3.adoc[Genesis 3:15 - The Seed of the Woman]
+**** xref:biblical-prophecy:genesis/genesis-12.adoc[Genesis 12:1-3 - The Call of Abraham]
+**** xref:biblical-prophecy:genesis/genesis-49.adoc[Genesis 49:10 - The Scepter of Judah]
+**** xref:biblical-prophecy:genesis/genesis-22.adoc[Genesis 22:18 - The Blessing to the Nations]
 *** Exodus
 *** Leviticus
 *** Numbers
