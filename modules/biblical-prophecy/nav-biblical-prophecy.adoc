@@ -1,6 +1,56 @@
-* xref:biblical-prophecy:intro-biblical-prophecy.adoc[Biblical Prophecy]
-** Yeshua Christ
+* Biblical Prophecy
+* xref:biblical-prophecy:intro-biblical-prophecy.adoc[Introduction to Biblical Prophecy]
+** Messiah (Mashiach)
 *** xref:biblical-prophecy:yeshua-christ/messiah-lineage-and-birth.adoc[The Messiah's Lineage and Birth]
 *** xref:biblical-prophecy:yeshua-christ/prophet-priest-king.adoc[The Messiah as Prophet, Priest, and King]
-** xref:biblical-prophecy:daniel/daniel-intro.adoc[The book of Daniel]
-*** xref:biblical-prophecy:daniel/daniel-8.adoc[Daniel Chapter 8]
+*** Types of Christ
+**** xref:biblical-prophecy:yeshua-christ/types-of-christ.adoc[Types of Christ in the Old Testament]
+**** xref:biblical-prophecy:yeshua-christ/prophecies-fulfilled-by-jesus.adoc[Prophecies Fulfilled by Jesus]
+** Prophecies in the Torah
+*** Introduction the Promises of God
+*** Genesis
+*** Exodus
+*** Leviticus
+*** Numbers
+*** Deuteronomy
+*** Abraham
+*** Moses
+** Historical Books
+*** Joshua
+*** Judges
+*** Ruth
+*** Samuel
+*** Kings
+*** Chronicles
+*** Ezra
+*** Nehemiah
+*** Esther
+** Wisdom Literature
+*** Job
+*** Psalms
+*** Proverbs
+*** Ecclesiastes
+*** Song of Solomon
+** Major Prophets
+*** Isaiah
+*** Jeremiah
+*** Ezekiel
+*** Daniel
+**** xref:biblical-prophecy:daniel/daniel-intro.adoc[Who was Daniel?]
+**** xref:biblical-prophecy:daniel/daniel-7.adoc[D7 Four Beasts and Ancient of Days]
+**** xref:biblical-prophecy:daniel/daniel-8.adoc[D8 Medes and Persians]
+** Minor Prophets
+*** Hosea
+*** Joel
+*** Amos
+*** Obadiah
+*** Jonah
+*** Micah
+*** Nahum
+*** Habakkuk
+*** Zephaniah
+*** Haggai
+*** Zechariah
+*** Malachi
+
+

@@ -3,25 +3,27 @@
 
 The Book of Daniel is a significant text in both the Hebrew Bible and the Christian Old Testament. 
 It is attributed to Daniel, a Jewish nobleman who was taken into Babylonian captivity. 
-The book is divided into two main sections: a series of court history (chapters 1-6) and a series of apocalyptic visions (chapters 7-12).
+The book is divided into two main sections: a series of court history and the life and times of Daniel (chapters 1-6) and a series of apocalyptic visions given to Daniel (chapters 7-12).
 
 
 
 == Qumran Discovery and Canonical Status
 
 The discovery of the Dead Sea Scrolls at Qumran in the mid-20th century **included fragments of the Book of Daniel**. 
-These scrolls date back to the **late 2nd century BC**, providing evidence that the Book of Daniel was considered canonical and authoritative by the Jewish community at that time. 
+These scrolls date back to the **late 2nd century BC**, providing evidence that the Book of Daniel **was considered canonical and authoritative by the Jewish community** at that time. 
 
 **This obliterates the former criticisms that the Book of Daniel was written after the events it prophesied**.
 
-From noted scholar Dr. Marius Nel, __"The Qumran discovery of the Book of Daniel is a significant find that confirms the antiquity and canonical status of the book in Jewish tradition."__
+.A Confirming Find
+[quote, Dr. Marius Nel]
+The Qumran discovery of the Book of Daniel is a significant find that confirms the antiquity and canonical status of the book in Jewish tradition.
 
 .Daniel was Scripture at Qumran
 [quote, On canonicity, Dr. Marius Nel]
-"The way in which Daniel was used at Qumran shows its authoritative
+The way in which Daniel was used at Qumran shows its authoritative
 status. For instance, the Florilegium (4Q174) quotes Daniel 12:10 with the accompanying words,
 **“as written in the book of Daniel, the prophet”**. This shows that Daniel was regarded as Scripture,
-and may even have belonged to the Nebi’im in the Qumran community."
+and may even have belonged to the Nebi’im in the Qumran community.
 <<Nel>>
 
 
